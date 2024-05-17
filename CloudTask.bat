@@ -1,3 +1,2 @@
-@ECHO OFF
-ls
-PAUSE
+@echo off
+"C:\Program Files\Git\bin\bash.exe" -c "ls"
